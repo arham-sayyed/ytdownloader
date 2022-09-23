@@ -1,0 +1,4 @@
+time==3.3
+os==3.6
+pathlib==1.0.1
+pytube==12.1.0 
